@@ -66,9 +66,7 @@ dl dd {
     margin-bottom: 1rem;
 }
 
-.test {border: 12px solid lime;}
-
-form span {border: 1px solid grey;}
+form span {border: 2px solid grey;}
 
 .proportion_form1 {
     display: flex;
